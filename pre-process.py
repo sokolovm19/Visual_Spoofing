@@ -1,3 +1,3 @@
 import  pandas as pd
 
-df = pd.DataFrame([sub.split(",") for sub in l])
+df = pd.read_csv(filename, sep=',')
