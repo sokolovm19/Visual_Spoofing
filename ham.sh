@@ -1,1 +1,1 @@
-paste *.txt > all.txt
+paste *.txt > ham.txt
