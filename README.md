@@ -1,4 +1,4 @@
-We show how substituting letters with their corre- sponding confusable tricks spam filters into classifying spam emails as ham emails. 
+We show how substituting letters with their corresponding confusable tricks spam filters into classifying spam emails as ham emails. 
 
 The data was used for this experiment below:
 - spam-classification: data downloaded from [spam-classification](https://github.com/subhashbylaiah/spam-classification) on November 24, 2019.
